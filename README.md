@@ -1,5 +1,10 @@
 # hello-world
 Just another repository :)
 
-I'm Karan. I'm getting back into coding after some time, so my code may be rusty - bear with me, will ya? ;)
-Actually - I'm sitting in a coffee shop which is closing at the moment, so gotta run!
+Aliens say, "Hello world."
+
+Next few action items: 
+let's add the java project here. 
+let's clean up the code
+add a user preferences file
+make an notifier/oberserver model :)
